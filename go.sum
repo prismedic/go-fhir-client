@@ -1,3 +1,5 @@
+github.com/dave/jennifer v1.7.1 h1:B4jJJDHelWcDhlRQxWeo0Npa/pYKBLrirAQoTN45txo=
+github.com/dave/jennifer v1.7.1/go.mod h1:nXbxhEmQfOZhWml3D1cDK5M1FLnMSozpbFN/m3RmGZc=
 github.com/go-resty/resty/v2 v2.15.0 h1:clPQLZ2x9h4yGY81IzpMPnty+xoGyFaDg0XMkCsHf90=
 github.com/go-resty/resty/v2 v2.15.0/go.mod h1:0fHAoK7JoBy/Ch36N8VFeMsK7xQOHhvWaC3iOktwmIU=
 github.com/samply/golang-fhir-models/fhir-models v0.3.2 h1:rdMFT5so500jqpDzWJ0bpOeIjqIWcK+czbbG/1RxgFk=
